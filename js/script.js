@@ -18,7 +18,7 @@ while(["y", "n"].indexOf(q1) == -1){
 }
 
 if(q1 == 'y'){score = score+1;}
-console.log(socre);
+console.log(score);
 
 
  if(q2 == 'y'){score = score+1;}
@@ -26,7 +26,7 @@ console.log(socre);
  if(q3 == 'n'){score = score+1;}
 
 
- if(q4 == 'n'){score = score+1;}
+ if(q4 == 'y'){score = score+1;}
 
  
  if(q5 == 'y'){score = score+1;}
