@@ -1,6 +1,9 @@
 'use-strict'
 
 let name = prompt("Hello there, please enter your name so start the little journey on my website ☺");
+let score = 0;
+
+socre = parseInt(score);
 
 question1();
 question2();
@@ -8,9 +11,7 @@ question3();
 question4();
 question5();
 
-let score = 0;
 
-socre = parseInt(score);
 
 
 
