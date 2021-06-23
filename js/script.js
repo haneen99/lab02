@@ -41,7 +41,7 @@ function question1(){
     q1 = prompt("Wrong answer ! please enter 'y' or 'n'");
     }
 
-    if(q1 == 'y'){score = score+1;}
+    if(q1 == 'y'){score++;}
     console.log(score);
 
 }
